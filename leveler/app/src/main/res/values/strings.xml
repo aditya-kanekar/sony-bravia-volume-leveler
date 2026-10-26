@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="key_service_label">Volume Leveler remote button</string>
+    <string name="key_service_description">Opens the Volume Leveler panel when you press the TV button on the remote. It does not read anything on screen.</string>
+</resources>
